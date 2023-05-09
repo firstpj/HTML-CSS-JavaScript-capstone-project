@@ -1,0 +1,20 @@
+{
+  "name": "html-css-javascript-capstone-project",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/firstpj/HTML-CSS-JavaScript-capstone-project.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/firstpj/HTML-CSS-JavaScript-capstone-project/issues"
+  },
+  "homepage": "https://github.com/firstpj/HTML-CSS-JavaScript-capstone-project#readme"
+}

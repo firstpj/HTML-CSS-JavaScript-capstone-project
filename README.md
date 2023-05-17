@@ -50,8 +50,8 @@
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## 🚀 Live Demo <a name="live-demo"></a>
-- **[live demo link](https://firstpj.github.io/capstone-project/)**
-- **[Video Presentation](https://www.loom.com/share/a6cf61fe03ec49d7b36bfeaacece8bac)**
+- **[live demo link](https://firstpj.github.o/capstone-project/)**
+- **[Video Presentation](https://www.loomcom/share/a6cf61fe03ec49d7b36bfeaacece8bac)**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
